@@ -23,7 +23,10 @@
 |[CRAX PRO](https://crax.pro)| OFFLINE | |
 |[CRDCLUB (Dark)](http://crdclub4wraumez4.onion)| OFFLINE | |
 |[CRDCLUB](https://crdclub.su)| OFFLINE | |
+|[CRIMENETWORK (Dark)](http://cnw4acab23przeum6ios6pw63ivxxbrvpclz5yssflkos6ano6oq4fqd.onion)| ONLINE | |
+|[CRIMENETWORK (Deep)](http://crime.to)| ONLINE | |
 |[CRYPTBB](http://cryptbbtg65gibadeeo2awe3j7s6evg7eklserehqr4w4e2bis5tebid.onion)| ONLINE | |
+|[DARKWEB](http://dwforumuugiyderhybcpfxmlmoawgq6z3w6hk45nrnem3p7kwszhybad.onion)| ONLINE | |
 |[DARK2WEB](https://dark2web.net)| ONLINE | |
 |[DARKMARKET.AT](https://darkmarket.at)| OFFLINE | |
 |[DARKMARKET.CX](https://darkmarket.cx)| OFFLINE | |
@@ -37,6 +40,8 @@
 |[DREAD](http://dreadytofatroptsdj6io7l3xptbet6onoyno2yv7jicoxknyazubrad.onion)| ONLINE | |
 |[DUBLIKAT.CLUB](https://at.dublikat.club)| ONLINE | |
 |[DUBLIKAT.PRO](https://my.dublikat.pro)| OFFLINE | |
+|[DUMPFORUMS (Deep)](https://dumpforums.com/)| ONLINE | |
+|[DUMPFORUMS (Dark)](http://cwtvplqgymm3kbzj7g2qijhpau4tcco52qwvkm66k357svomp5bw5eqd.onion/)| ONLINE | |
 |[DWF (Tor v2)](http://dwforumsmrcqdnt3.onion)| OFFLINE | |
 |[DWF (Tor v3)](http://dwforumuugiyderhybcpfxmlmoawgq6z3w6hk45nrnem3p7kwszhybad.onion)| ONLINE | |
 |[ELEAKS](https://eleaks.to)| ONLINE | |
@@ -74,6 +79,7 @@
 |[NULLED](https://www.nulled.to)| ONLINE | |
 |[NULLEDBB](https://nulledbb.com)| ONLINE | |
 |[OGUSERS](https://www.ogusers.com)| OFFLINE | |
+|[PATCHED.TO](https://patched.to)| ONLINE | |
 |[PAYLOAD.SH](https://payload.sh)| ONLINE | |
 |[PHREAKER](https://phreaker.info)| ONLINE | |
 |[PIRATEBUHTA](https://s1.piratebuhta.net)| ONLINE | |
@@ -101,6 +107,7 @@
 |[SUPERBAY](http://suprbaydvdcaynfo4dgdzgxb4zuso7rftlil5yg5kqjefnw4wq4ulcad.onion)| ONLINE | |
 |[THE HUB](http://thehubwav7canwaq7trm6zl3tqvkf2kwbkgwvwonfssvgvtyrdy4u3yd.onion)| ONLINE | |
 |[THE JAVA SEA](https://thejavasea.com)| ONLINE | |
+|[TOOLBASE](https://toolba.se)| ONLINE | |
 |[VERIFIED (Dark)](http://verified3vr2kdbnza6c3e5ak4z5xmtti4hx36dfg3kbi6pwekztvsqd.onion/index.php)| ONLINE | |
 |[VERIFIED (Deep)](https://ver.sc/index.php)| OFFLINE | |
 |[VERYLEAKS](https://veryleaks.cz)| ONLINE | |
