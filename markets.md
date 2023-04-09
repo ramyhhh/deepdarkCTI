@@ -13,6 +13,9 @@
 |[BLACKPASS](http://blackpasspn7734jqltjj2qx4qez5gcpcwujuugymky3lzcmmcfpzbyd.onion)| ONLINE | |
 |[BOHEMIAN](http://bohemiaobko4cecexkj5xmlaove6yn726dstp5wfw4pojjwp6762paqd.onion)| ONLINE | |
 |[BRAINSCLUB](https://brainsclub.to)| ONLINE | |
+|[BRIAN'S CLUB](https://briansclub.cm)| ONLINE | |
+|[B-P Market](https://b-p.sale/)| ONLINE | |
+|[CABYC](http://cabyceogpsji73sske5nvo45mdrkbz4m3qd3iommf3zaaa6izg3j2cqd.onion)| ONLINE | |
 |[CARD STORE](https://carding.store)| ONLINE | |
 |[CARD TEAM](https://card.ms)| OFFLINE | |
 |[CARDER](https://carder.uk)| OFFLINE | |
@@ -37,18 +40,24 @@
 |[DARK ZONE](http://6bcecdo7ldzkudt6dnsuljqoyhgme4afsnytarre5nucjhgzmrn4txad.onion)| OFFLINE | |
 |[DARKFOX MARKET](http://p5eg3xsssjglu6tvwfazp2nqqwfpah55wr3ljil2bezp5shix5ruqsqd.onion)| ONLINE | |
 |[DATABASE](http://database6e2t4yvdsrbw3qq6votzyfzspaso7sjga2tchx6tov23nsid.onion)| ONLINE | |
+|[Delta Marketplace](https://delta-marketplace.sellix.io/)| ONLINE | |
 |[DOCSHOP](https://doc-shop.ws)| OFFLINE | |
 |[EMPIRE MARKET](http://2a2a2abbjsjcjwfuozip6idfxsxyowoi3ajqyehqzfqyxezhacur7oyd.onion)| ONLINE | |
 |[ETERNITY](http://malwarewrn7fvd7zq243d74dxs3ca4wh5kw6i2opkzeusuoajtd2j5yd.onion)| ONLINE | |
+|[FREDDY](freddy.atshop.io)| ONLINE | |
+|[FreshTools](https://freshtools.net)| ONLINE | |
 |[Genesis Market](https://genesis.market)| ONLINE | |
 |[Genesis Market](https://g3n3sis.pro)| ONLINE | |
 |[Genesis Market](https://g3n3sis.org)| ONLINE | |
+|[Genesis Market (Tor v3)](https://genesis7zoveavupiiwnrycmaq6uro3kn5h2be3el7wdnbjti2ln2wid.onion)| ONLINE | |
+|[HYDRA (Deep)](https://hydramarket.co)| ONLINE | |
 |[HYDRA (Tor v2)](http://hydra3rudf3j4hww.onion)| OFFLINE | |
 |[HYDRA (Tor v3)](http://hydraclubbioknikokex7njhwuahc2l67lfiz7z36md2jvopda7nchid.onion)| OFFLINE | |
 |[INDUSTRIAL SPY](http://spyarea23ttlty6qav3ecmbclpqym3p32lksanoypvrqm6j5onstsjad.onion/user/login)| ONLINE | |
 |[INFINITY SHOP](http://infinityvzoe2ldb74y2klk7cs3nda2n3qozdy7sdgfouqrzfkp64sid.onion)| ONLINE | |
 |[Iran Info Marketplace](http://marketir7joj2ibuouojg2nwkdwfal5dhisp3g246jl4ur7r7zfvloid.onion)| ONLINE | |
 |[LIBERTY](http://liberty4mhc252jcz6acjndbotamlajtoo43qcmz4i62lc4b2ol4aeyd.onion)| OFFLINE | |
+|[LOLZ.GURU](https://lolz.guru/)| ONLINE | |
 |[LOCKDATA AUCTION](http://wm6mbuzipviusuc42kcggzkdpbhuv45sn7olyamy6mcqqked3waslbqd.onion)| OFFLINE | Probably a scam website. |
 |[LuxeCC](https://luxecc.net)| ONLINE | |
 |[MAGBO (Dark)](http://magbocc3tco4vmxx.onion)| OFFLINE | |
@@ -61,6 +70,10 @@
 |[ONLYONE](https://only-one.cc)| OFFLINE | |
 |[Pois0n](https://pois0ncc.ru)| ONLINE | |
 |[PROBIV](https://probiv.one)| ONLINE | |
+|[RESCATOR](https://rescator.cn)| ONLINE | |
+|[RONDA STORE (Deep - mirror)](https://rondastore.vip)| ONLINE | |
+|[RONDA STORE (Deep)](http://rondastore.cc)| ONLINE | |
+|[RONDA STORE (Tor v3)](http://r4hyxmieadsyhnqzccmib45qtwa3x74gpnp24ovicuiuc5jzj3jxj2ad.onion)| ONLINE | |
 |[Russian Market (Deep)](https://russianmarket.gs)| OFFLINE | |
 |[Russian Market (Deep)](https://russianmarket.to)| ONLINE | |
 |[Russian Market (Deep)](https://russianmarket.io)| ONLINE | |
@@ -69,6 +82,7 @@
 |[Russian Market (Tor v3)](http://flydedxmmddhgt3vfhv6om63ra2u2x4jxginulhxb6nzcnj3wwgavwyd.onion)| ONLINE | |
 |[Russian Market (Tor v3)](http://rumarkstror5mvgzzodqizofkji3fna7lndfylmzeisj5tamqnwnr4ad.onion)| ONLINE | |
 |[SHADOWCARDERS](https://shadowcarders.com)| ONLINE | |
+|[STYX](https://styxmarket.com)| ONLINE | |
 |[SWIPESTORE](https://swipestore.cc)| ONLINE | |
 |[THEMAJESTIC](http://tmglsdiax6dhx6iasbrokghhv7553a4cqc374tcgkvgl3xmp6z5t5myd.onion)| ONLINE | |
 |[TOOREZ](http://lstkx6p3gzsgfwsqpntlv7tv4tsjzziwp76gvkaxx2mqe3whvlp243id.onion)| OFFLINE | |
