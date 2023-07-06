@@ -1,4 +1,4 @@
-|Name|Status|Description|
+|Name|Status|Desc|
 | ------ | ------ | ------ |
 |[ETERNITY](http://malwarewrn7fvd7zq243d74dxs3ca4wh5kw6i2opkzeusuoajtd2j5yd.onion) | OFFLINE | |
 |[ETERNITY](http://rlcjba7wduej3xcstcjo577eqgjsjvcjfsw4i23fqvf2y27ylylhmhad.onion) | ONLINE | |
