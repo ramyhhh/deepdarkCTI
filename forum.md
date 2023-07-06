@@ -1,4 +1,4 @@
-|Name|Status|Description|
+|Name|Status|Desc|
 | ------ | ------ | ------ |
 |[4CHEAT](https://4cheat.ru/)|ONLINE||
 |[AGAINSTTHEWEST](http://giphvoitymatg4cv7bxqh5dz6sn6bfscywoat4qtslztkomf5lavrayd.onion) | OFFLINE | |
